@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="book_primary">#5D4037</color>
+    <color name="book_primary_dark">#3E2723</color>
+    <color name="book_accent">#D84315</color>
+    <color name="book_bg">#FAF6F0</color>
+    <color name="card_bg">#FFFFFF</color>
+</resources>

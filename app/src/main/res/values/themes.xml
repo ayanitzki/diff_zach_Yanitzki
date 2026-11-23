@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Diff_zach_Yanitzki" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/book_primary</item>
+        <item name="colorPrimaryVariant">@color/book_primary_dark</item>
+        <item name="colorSecondary">@color/book_accent</item>
+        <item name="android:windowBackground">@color/book_bg</item>
+    </style>
+</resources>
